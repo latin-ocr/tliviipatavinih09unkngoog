@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih09unkngoog_0006.png"; bbox 0 0 2659 4634; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 6 1184 2585 1863">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 6 1184 2585 1863">
+     <span class='ocr_line' id='line_1_1' title="bbox 616 1184 2411 1347; baseline 0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 616 1254 737 1343; x_wconf 88' lang='lat' dir='ltr'><strong>T.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 850 1252 1192 1346; x_wconf 81' lang='lat' dir='ltr'>L1v11</span> <span class='ocrx_word' id='word_1_3' title='bbox 1308 1251 2003 1347; x_wconf 83' lang='lat' dir='ltr'>PATAVINI</span> <span class='ocrx_word' id='word_1_4' title='bbox 2192 1299 2197 1308; x_wconf 83' lang='lat'>·</span> <span class='ocrx_word' id='word_1_5' title='bbox 2377 1184 2411 1250; x_wconf 67' lang='lat'><strong><em>⁵</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 179 1457 2585 1663; baseline 0.003 -56.463"><span class='ocrx_word' id='word_1_6' title='bbox 179 1457 2585 1663; x_wconf 52' lang='lat' dir='ltr'><strong>Hls&#39;ronl‘AnUMf</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 6 1693 2072 1863; baseline 0 -2"><span class='ocrx_word' id='word_1_7' title='bbox 6 1693 8 1712; x_wconf 14' lang='grc' dir='ltr'>ἑ</span> <span class='ocrx_word' id='word_1_8' title='bbox 535 1787 714 1861; x_wconf 79' lang='lat' dir='ltr'><strong>AB</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 825 1785 1238 1863; x_wconf 66' lang='lat' dir='ltr'><strong>unns</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1352 1697 2072 1862; x_wconf 70' lang='lat' dir='ltr'><strong>c&#39;omnlmA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 327 2017 2243 2122">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 327 2017 2243 2122">
+     <span class='ocr_line' id='line_1_4' title="bbox 327 2017 2243 2122; baseline 0.001 -35"><span class='ocrx_word' id='word_1_11' title='bbox 327 2021 698 2101; x_wconf 71' lang='lat' dir='ltr'>LIBRI,</span> <span class='ocrx_word' id='word_1_12' title='bbox 797 2021 980 2122; x_wconf 76' lang='lat' dir='ltr'><strong>QUI</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1061 2017 1747 2098; x_wconf 71' lang='lat' dir='ltr'><strong>SUPERSUN&#39;I&#39;,</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1845 2017 2243 2090; x_wconf 72' lang='grc' dir='ltr'><strong>ΟΠΝΕΒ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 679 2341 1943 2435">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 679 2341 1943 2435">
+     <span class='ocr_line' id='line_1_5' title="bbox 679 2341 1943 2435; baseline -0.002 -15"><span class='ocrx_word' id='word_1_15' title='bbox 679 2345 1174 2424; x_wconf 71' lang='grc' dir='ltr'><strong>ΤΟΜΠΒ</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1269 2341 1943 2435; x_wconf 64' lang='lat' dir='ltr'><strong>nummus,</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
